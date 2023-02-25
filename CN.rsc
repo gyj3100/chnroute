@@ -3430,6 +3430,7 @@ add address=103.96.204.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.96.208.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.96.212.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.96.216.0/22 disabled=no comment=AS4809 list=china-ip
+add address=103.96.224.0/23 disabled=no comment=AS4809 list=china-ip
 add address=103.97.8.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.97.12.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.97.16.0/22 disabled=no comment=AS4809 list=china-ip
