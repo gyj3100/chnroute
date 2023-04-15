@@ -3791,6 +3791,7 @@ add address=103.131.176.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.131.224.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.131.228.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.131.240.0/22 disabled=no comment=AS4809 list=china-ip
+add address=103.132.22.0/23 disabled=no comment=AS4809 list=china-ip
 add address=103.132.60.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.132.64.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.132.68.0/22 disabled=no comment=AS4809 list=china-ip
