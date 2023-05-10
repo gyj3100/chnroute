@@ -4225,6 +4225,7 @@ add address=103.196.92.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.196.96.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.196.168.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.196.204.0/22 disabled=no comment=AS4809 list=china-ip
+add address=103.197.0.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.197.180.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.197.228.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.198.20.0/22 disabled=no comment=AS4809 list=china-ip
