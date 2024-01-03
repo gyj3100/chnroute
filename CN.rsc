@@ -6212,6 +6212,8 @@ add address=153.101.0.0/16 disabled=no comment=AS4809 list=china-ip
 add address=153.118.0.0/15 disabled=no comment=AS4809 list=china-ip
 add address=154.8.128.0/17 disabled=no comment=AS4809 list=china-ip
 add address=157.0.0.0/16 disabled=no comment=AS4809 list=china-ip
+add address=157.10.34.0/23 disabled=no comment=AS4809 list=china-ip
+add address=157.10.36.0/23 disabled=no comment=AS4809 list=china-ip
 add address=157.18.0.0/16 disabled=no comment=AS4809 list=china-ip
 add address=157.61.0.0/16 disabled=no comment=AS4809 list=china-ip
 add address=157.119.8.0/22 disabled=no comment=AS4809 list=china-ip
