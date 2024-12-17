@@ -3302,7 +3302,9 @@ add address=103.89.216.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.89.220.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.89.224.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.89.228.0/22 disabled=no comment=AS4809 list=china-ip
+add address=103.90.51.0/24 disabled=no comment=AS4809 list=china-ip
 add address=103.90.52.0/22 disabled=no comment=AS4809 list=china-ip
+add address=103.90.56.0/23 disabled=no comment=AS4809 list=china-ip
 add address=103.90.92.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.90.100.0/22 disabled=no comment=AS4809 list=china-ip
 add address=103.90.104.0/22 disabled=no comment=AS4809 list=china-ip
