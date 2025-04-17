@@ -6325,6 +6325,10 @@ add address=163.223.216.0/23 disabled=no comment=AS4809 list=china-ip
 add address=163.223.222.0/23 disabled=no comment=AS4809 list=china-ip
 add address=163.227.34.0/23 disabled=no comment=AS4809 list=china-ip
 add address=163.227.40.0/23 disabled=no comment=AS4809 list=china-ip
+add address=163.227.74.0/23 disabled=no comment=AS4809 list=china-ip
+add address=163.227.76.0/23 disabled=no comment=AS4809 list=china-ip
+add address=163.227.78.0/23 disabled=no comment=AS4809 list=china-ip
+add address=163.227.80.0/23 disabled=no comment=AS4809 list=china-ip
 add address=163.228.0.0/16 disabled=no comment=AS4809 list=china-ip
 add address=164.52.0.0/17 disabled=no comment=AS4809 list=china-ip
 add address=166.111.0.0/16 disabled=no comment=AS4809 list=china-ip
