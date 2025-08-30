@@ -6549,6 +6549,7 @@ add address=202.6.108.0/24 disabled=no comment=AS4809 list=china-ip
 add address=202.6.110.0/23 disabled=no comment=AS4809 list=china-ip
 add address=202.6.114.0/24 disabled=no comment=AS4809 list=china-ip
 add address=202.6.176.0/20 disabled=no comment=AS4809 list=china-ip
+add address=202.6.202.0/23 disabled=no comment=AS4809 list=china-ip
 add address=202.8.0.0/24 disabled=no comment=AS4809 list=china-ip
 add address=202.8.2.0/23 disabled=no comment=AS4809 list=china-ip
 add address=202.8.4.0/23 disabled=no comment=AS4809 list=china-ip
