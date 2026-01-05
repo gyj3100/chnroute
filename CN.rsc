@@ -6613,6 +6613,7 @@ add address=192.140.208.0/22 disabled=no comment=AS4809 list=china-ip
 add address=192.140.212.0/22 disabled=no comment=AS4809 list=china-ip
 add address=192.144.128.0/17 disabled=no comment=AS4809 list=china-ip
 add address=192.197.113.0/24 disabled=no comment=AS4809 list=china-ip
+add address=192.232.34.0/23 disabled=no comment=AS4809 list=china-ip
 add address=193.112.0.0/16 disabled=no comment=AS4809 list=china-ip
 add address=193.119.0.0/19 disabled=no comment=AS4809 list=china-ip
 add address=198.175.100.0/22 disabled=no comment=AS4809 list=china-ip
