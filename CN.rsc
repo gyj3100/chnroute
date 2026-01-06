@@ -5957,7 +5957,13 @@ add address=123.253.52.0/23 disabled=no comment=AS4809 list=china-ip
 add address=123.254.96.0/22 disabled=no comment=AS4809 list=china-ip
 add address=123.254.100.0/22 disabled=no comment=AS4809 list=china-ip
 add address=124.6.64.0/18 disabled=no comment=AS4809 list=china-ip
-add address=124.14.0.0/18 disabled=no comment=AS4809 list=china-ip
+add address=124.14.0.0/20 disabled=no comment=AS4809 list=china-ip
+add address=124.14.16.0/21 disabled=no comment=AS4809 list=china-ip
+add address=124.14.24.0/21 disabled=no comment=AS4809 list=china-ip
+add address=124.14.32.0/20 disabled=no comment=AS4809 list=china-ip
+add address=124.14.48.0/22 disabled=no comment=AS4809 list=china-ip
+add address=124.14.52.0/22 disabled=no comment=AS4809 list=china-ip
+add address=124.14.56.0/21 disabled=no comment=AS4809 list=china-ip
 add address=124.14.64.0/18 disabled=no comment=AS4809 list=china-ip
 add address=124.14.128.0/17 disabled=no comment=AS4809 list=china-ip
 add address=124.15.0.0/16 disabled=no comment=AS4809 list=china-ip
